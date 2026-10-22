@@ -1,0 +1,5 @@
+﻿Build started at 14:31...
+1>------ Build started: Project: log clase, Configuration: Debug Any CPU ------
+1>  log clase -> C:\Users\erick\source\repos\log clase\log clase\bin\log clase.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 14:31 and took 00.377 seconds ==========
